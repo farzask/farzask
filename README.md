@@ -5,8 +5,8 @@
 - Currently pursuing my Bachelors of Computer Sciences from the CECOS University of IT and Emerging Sciences
 - Interested in Backend Development, Mobile App Development, AI/ML
 - Currently learning Mobile App Development through Flutter
-
 #
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=farzask&theme=tokyonight" />
 </a>
