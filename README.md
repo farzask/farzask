@@ -14,7 +14,7 @@
 </a>
 
 #
-### Tech Stack
+## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,dart,flutter,figma,html,css" />
