@@ -13,9 +13,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzask&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=farzask&theme=dark&hide_border=false)
-
 #
 ## Tech Stack
 <p align="center">
