@@ -13,6 +13,9 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzask&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=farzask&theme=dark&hide_border=false)
+
 #
 ## Tech Stack
 <p align="center">
@@ -20,3 +23,6 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,python,dart,flutter,figma,html,css" />
   </a>
 </p>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farza_shahzad_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farza-shahzad) 
