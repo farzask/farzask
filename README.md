@@ -1,9 +1,7 @@
 # Welcome!
 ✨Hello I am Farza Shahzad
-- A computer enthusiast and developer sharing my journey into tech.
-- Currently pursuing my Bachelors of Computer Sciences from the CECOS University of IT and Emerging Sciences
-- Interested in Backend Development, Mobile App Development, AI/ML
-- Currently learning Mobile App Development through Flutter
+- A computer enthusiast and a Flutter developer sharing my journey into tech.
+- Working towards Backend Development and AI/ML
 #
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
