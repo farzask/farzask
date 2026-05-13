@@ -1,6 +1,6 @@
 # Welcome!
 ✨Hello I am Farza Shahzad
-- Flutter Developer with 1+ year of experience <br>- Shipped production apps integrating Firebase, REST APIs, Python backends, and Cloudinary<br>- Always cooking(building) something
+- Flutter Developer with 1+ year of experience <br> - Shipped production apps integrating Firebase, REST APIs, Python backends, and Cloudinary<br> - Always cooking(building) something
 #
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
