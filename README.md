@@ -13,7 +13,7 @@
 A software engineer with 1+ year of experience building scalable web and mobile apps integrated with IoT devices, python backends, AI models, REST APIs, Gemini APIs and cloud databases.
 
 💬 &nbsp;Ask me about **Flutter, Next.js, Databases,**  
-😄 &nbsp;Pronouns: **sher/her**  
+😄 &nbsp;Pronouns: **she/her**  
 ⚡ &nbsp;Fun fact: **I give testing part to my best friend lol**
 
 ### 🛠️ Tech Stack
